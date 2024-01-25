@@ -26,4 +26,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A store é um projeto que mostra a flexibilidade para pessoas que buscam mais facilidade e eficiência em um site, tornando assim os pedido e solicitações mais ágeis e precisa através de uma store e carrinho onde consegue manipular suas compras, enviando assim toda as descrições do pedido e endereço, tudo atualizado via WhatsApp diretamente para a loja.
 
-Desenvoldido por: [Wagner Ferreira](https://www.instagram.com/wagnerffadm/)
+Desenvoldido por: [Wagner Ferreira](https://www.instagram.com/wagnerffadm/)# Project-StoreNBA
